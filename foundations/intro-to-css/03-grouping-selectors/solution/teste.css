@@ -1,0 +1,15 @@
+.k {
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+.y {
+    background-color: chocolate;
+    color: black;
+}
+
+.k, .y {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
