@@ -1,0 +1,19 @@
+.odd {
+background-color: rgb(211, 82, 223);
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+#two {
+    color: blue;
+    font-size: 38px;
+}
+
+.adjust-font-size {
+    font-size: 28px;
+}
+
+#four {
+    background-color: aquamarine;
+    font-weight: bolder;
+}
